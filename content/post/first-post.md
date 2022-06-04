@@ -8,4 +8,3 @@ Hey there! This is my first post using Hugo. Hugo is static site generators to h
 
 I changed my theme. Here is the old one:
 
-![Old Coder Themes](../images/old-theme.jpg)
