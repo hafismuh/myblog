@@ -1,1 +1,1 @@
-Hi, I'm Fizz. I'm an IT Support with 4+ years of experience in various hardware issues, software, network, etc. I'm seeking to leverage wide spectrum of IT knowledge and tech skills.
+Hi, I'm Fizz. I'm an IT Support with 5+ years of experience in various hardware issues, software, network, etc. I'm seeking to leverage wide spectrum of IT knowledge and tech skills.
