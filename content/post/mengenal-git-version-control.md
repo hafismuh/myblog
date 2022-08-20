@@ -1,7 +1,7 @@
 ---
 title: "Mengenal Git Version Control"
 date: 2022-06-05T21:26:18+07:00
-draft: false
+draft: true
 ---
 
 Git merupakan salah satu version control system yang dapat membantu memudahkan dalam pengerjaan suatu project pengembangan aplikasi. 

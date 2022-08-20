@@ -1,7 +1,7 @@
 ---
 title: "Basic Unix Commands-line (CLI)"
 date: 2022-07-23T14:44:05+07:00
-draft: false
+draft: true
 ---
 
 CLI merupakan suatu program yang digunakan untuk menjalankan suatu perintah berbasis text.
@@ -20,12 +20,13 @@ CLI merupakan suatu program yang digunakan untuk menjalankan suatu perintah berb
     <li>mkdir -> membuat sebuah direktori</li>
     <li>cp -> copy</li>
         <ul>
-            <li>cp direktori tujuan</li>
+            <li>cp file direktori tujuan</li>
+            <li>cp -r direktori tujuan</li>
         </ul>
     <li>mv -> move</li>
         <ul>
             <li>mv direktori tujuan</li>
-            <li>mv -D ubah nama</li>
+            <li>mv folder nama folder</li>
         </ul>
     <li>rm -> remove</li>
 </ul> 
