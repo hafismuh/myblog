@@ -1,7 +1,7 @@
 ---
 title: "New Hope"
 date: 2022-08-21T02:33:49+07:00
-draft: false
+draft: true
 ---
 
 Hey there! I have to decide that I will never learn web programming anymore. I never set my target to become a web developer, programmer, or to be UI/UX designer. That is because my job as an IT Support had never related into it.
