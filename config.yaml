@@ -1,0 +1,65 @@
+baseurl: "https://example.com"
+languageCode: "en-us"
+title: "Hafis Muhammad"
+theme: "hugo-tania"
+pagination.pagerSize: 6
+
+disqusShortname: https-hugo-tania-netlify-app
+
+params:
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji:
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo: favicon.ico
+  
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes: true
+  
+  siteName: "Blogging is amazing!"
+  siteDesc: "Hugo is Absurdly Fast!"
+  author: "Hafis Muhammad"
+
+  colorScheme:
+    # Enable toggle colorScheme
+    # Default to true
+    toggle: true
+    # Default colorScheme
+    # Default to auto
+    default: auto
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow: 10
+
+
+
+  # Show your socail information with icon on index bio with `_index.md` content.
+  button:
+      enable: true
+      name: "Resume"
+      url: "#"
+      download: true
+      newPage: false
+  
+  socialOptions:
+    email: hafismuh@gmail.com
+    linkedin: https://www.linkedin.com/in/hafismuh/
+    medium: https://medium.com/@hafismuh
+    
+menu:
+  header:
+    - name: Articles
+      url: "/articles/"
+      
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
