@@ -4,6 +4,7 @@ title: "Hafis Muhammad"
 theme: "hugo-tania"
 pagination.pagerSize: 6
 
+
 disqusShortname: https-hugo-tania-netlify-app
 
 params:
@@ -63,3 +64,4 @@ markup:
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
+
