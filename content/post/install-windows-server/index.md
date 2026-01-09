@@ -1,6 +1,6 @@
 ---
 author: "Hafis Muhammad"
-title: "How to Install Windows Server 2025"
+title: "How to Install Windows Server 2025 in VMWare Fusion"
 date: "2025-08-22"
 description: "Guide to emoji usage in Hugo"
 tags: #
