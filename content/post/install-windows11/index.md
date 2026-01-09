@@ -2,8 +2,9 @@
 author: "Hafis Muhammad"
 title: "How to Install Windows 11"
 date: "2025-08-13"
-description: "Guide to emoji usage in Hugo"
-tags: #
+description: #
+tags: 
+- Windows
 ---
 
 ![Windows 11](win11-logo.webp)

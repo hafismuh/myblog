@@ -2,7 +2,7 @@
 author: "Hafis Muhammad"
 title: "Welcome!"
 date: "2025-06-05"
-description: "Guide to emoji usage in Hugo"
+description: #
 tags: #
 ---
 

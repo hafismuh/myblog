@@ -2,8 +2,10 @@
 author: "Hafis Muhammad"
 title: "How to Install Windows Server 2025 in VMWare Fusion"
 date: "2025-08-22"
-description: "Guide to emoji usage in Hugo"
-tags: #
+description: #
+tags: 
+- Windows Server
+- VMWare Fusion
 ---
 
 When I tried to use Windows Server 2025 in VMware Fusion on my Mac, I couldn’t find the ISO file on the Microsoft website. The ISO file must be in ARM architecture so that it can be run on VMware Fusion on a Mac. After watching many videos on YouTube, I found this website, https://uupdump.net/, which helped me to get the ISO file.
