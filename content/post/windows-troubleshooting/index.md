@@ -1,6 +1,6 @@
 ---
 author: "Hafis Muhammad"
-title: "Windows Troubleshooting and Monitoring Tools"
+title: "Windows Configuration, Monitoring, and Troubleshooting"
 date: "2026-01-09"
 description: #
 tags: 
