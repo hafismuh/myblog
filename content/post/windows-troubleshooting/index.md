@@ -6,6 +6,10 @@ description: #
 tags: 
 - Windows
 ---
+
+During my work as an IT Support, I often handle performance issues, slow system startup, application crashes, and services that fail to run properly. In many cases, I rely on built-in Windows tools to perform analysis and troubleshooting without the need for additional software. I will explain it based on my experiences. Here we go!
+
+
 ##### System Configuration
 System Configuration will help you to resolving issues, monitoring performance, making a configuration, checking the running servics, etc. You can launch the tools to make sure what you will do with this feature.
 
